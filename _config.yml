@@ -1,0 +1,32 @@
+typography_spectrum: 0.20645341044291854
+color:
+  brandStrength: 0.4299335654359311
+  lightness: 0.7242814085911959
+  saturation: 0.7727650445885956
+  rhythmicContrast: 0.8971566264517605
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+github: true
+layout_spectrum: 0.403107417980209
+author:
+  name: Dan McClintock
+  email: dmcclint@coloradomesa.edu
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f215fb-0fb2-417c-a30a-d31e24fcd68f.png
+name: VR Insights
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e5c1e52-c812-454d-9bc8-58fe0f9869e6.png
+title: VR Production Insights
+content: []
+description: Immersive Video/Graphic/Animation Production Techniques
+purpose:
+  - type: contact
+    url: 'tel:970-433-0523'
+    label: Call 970-433-0523
+  - type: contact
+    url: 'mailto:dmcclint@coloradomesa.edu'
+    label: Contact me
