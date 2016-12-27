@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VR Production Insights]]></title>
+        <description><![CDATA[VR Production Insights]]></description>
+        <link>https://thegrid.ai/vr-insights/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Dec 2016 06:50:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vr-insights/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It Begins]]></title>
+            <description><![CDATA[<article><h1>It Begins</h1><p>Western Colorado Community College's Immersive Design Technology Associate-Degree Program will hopefully be approved at the end of January 2017 by Colorado Mesa's Undergraduate Curriculum Committee.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2523dc6-212f-41d9-bebd-1007699af7d0.png"></article>]]></description>
+            <link>https://thegrid.ai/vr-insights/it-begins/index.html</link>
+            <guid isPermaLink="false">8c48b0d9-ef12-4047-b50d-46834f5e8eaa</guid>
+            <pubDate>Tue, 27 Dec 2016 06:49:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
