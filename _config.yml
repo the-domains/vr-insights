@@ -1,4 +1,3 @@
-layout_spectrum: 0.5561182947529684
 typography_spectrum: 0.5272849330487708
 color:
   brandStrength: 0.9667620896388509
@@ -12,6 +11,7 @@ color:
     - '#FF8C00'
     - '#04756F'
 github: true
+layout_spectrum: 0.5561182947529684
 author:
   name: Dan McClintock
   email: dmcclint@coloradomesa.edu
@@ -21,6 +21,9 @@ name: VR Insights
 navigation:
   - name: Blog/News
     id: 8c48b0d9-ef12-4047-b50d-46834f5e8eaa
+    type: content
+  - name: About Us
+    id: f8df6492-384c-49d6-b5e2-34ed69b4ad77
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e5c1e52-c812-454d-9bc8-58fe0f9869e6.png
