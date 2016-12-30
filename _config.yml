@@ -1,17 +1,17 @@
-typography_spectrum: 0.7696153085936083
+layout_spectrum: 0.5561182947529684
+typography_spectrum: 0.5272849330487708
 color:
-  brandStrength: 0.9674646645986318
-  lightness: 0.4620527696389115
-  saturation: 0.1286181314989445
-  rhythmicContrast: 0.7434344428896645
+  brandStrength: 0.9667620896388509
+  lightness: 0.17723733023583596
+  saturation: 0.19527225521457667
+  rhythmicContrast: 0.7760498221468476
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 github: true
-layout_spectrum: 0.11104665106835564
 author:
   name: Dan McClintock
   email: dmcclint@coloradomesa.edu
