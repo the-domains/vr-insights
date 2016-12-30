@@ -1,23 +1,37 @@
-typography_spectrum: 0.5272849330487708
+title: VR Production Insights
+content: []
+github: true
+purpose:
+  - type: contact
+    url: 'tel:970-255-2649'
+    label: Call 970-255-2649
+  - type: contact
+    url: 'mailto:dmcclint@coloradomesa.edu'
+    label: Contact us
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Immersive Video/Graphic/Animation Production Techniques
 color:
-  brandStrength: 0.9667620896388509
-  lightness: 0.17723733023583596
-  saturation: 0.19527225521457667
-  rhythmicContrast: 0.7760498221468476
+  saturation: 0.2017379844736419
+  brandStrength: 0.371758719238886
+  rhythmicContrast: 0.7075699296355763
   brandColors:
     - '#2E0927'
     - '#D90000'
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-github: true
-layout_spectrum: 0.5561182947529684
-author:
-  name: Dan McClintock
-  email: dmcclint@coloradomesa.edu
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f215fb-0fb2-417c-a30a-d31e24fcd68f.png
-name: VR Insights
+  lightness: 0.727239331459018
 navigation:
   - name: About Us
     id: f8df6492-384c-49d6-b5e2-34ed69b4ad77
@@ -27,13 +41,11 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e5c1e52-c812-454d-9bc8-58fe0f9869e6.png
-title: VR Production Insights
-content: []
-description: Immersive Video/Graphic/Animation Production Techniques
-purpose:
-  - type: contact
-    url: 'tel:970-255-2649'
-    label: Call 970-255-2649
-  - type: contact
-    url: 'mailto:dmcclint@coloradomesa.edu'
-    label: Contact us
+author:
+  name: Dan McClintock
+  email: dmcclint@coloradomesa.edu
+name: VR Insights
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f215fb-0fb2-417c-a30a-d31e24fcd68f.png
+typography_spectrum: 0.7947935436567347
+layout_spectrum: 1
