@@ -1,4 +1,3 @@
-layout_spectrum: 0.11104665106835564
 typography_spectrum: 0.7696153085936083
 color:
   brandStrength: 0.9674646645986318
@@ -12,12 +11,17 @@ color:
     - '#F2EBC7'
     - '#348899'
 github: true
+layout_spectrum: 0.11104665106835564
 author:
   name: Dan McClintock
   email: dmcclint@coloradomesa.edu
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f215fb-0fb2-417c-a30a-d31e24fcd68f.png
 name: VR Insights
+navigation:
+  - name: Blog
+    id: 8c48b0d9-ef12-4047-b50d-46834f5e8eaa
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e5c1e52-c812-454d-9bc8-58fe0f9869e6.png
 title: VR Production Insights
